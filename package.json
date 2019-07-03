@@ -1,0 +1,22 @@
+{
+  "name": "bvg-app",
+  "version": "1.0.0",
+  "description": "Get bus departure times for locations nearby",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeczar/BVG-app.git"
+  },
+  "author": "Joe Czarnecki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeczar/BVG-app/issues"
+  },
+  "homepage": "https://github.com/joeczar/BVG-app#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
